@@ -142,7 +142,7 @@ class SportsTracker:
             frame,
             conf=Config.CONF_THRESHOLD,
             iou=Config.IOU_THRESHOLD,
-            classes=[0],           # 0 = person in COCO
+            classes=[0],          
             verbose=False,
         )[0]
         detections = sv.Detections.from_ultralytics(results)

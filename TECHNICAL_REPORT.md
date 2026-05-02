@@ -1,8 +1,7 @@
 # Technical Report: Multi-Object Detection and Persistent ID Tracking
 
 **Assignment:** AI / Computer Vision / Data Science  
-**Duration:** 2–3 days  
-**Video Source:** *(add your YouTube link here)*
+
 
 ---
 
