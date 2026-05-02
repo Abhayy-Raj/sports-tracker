@@ -1,7 +1,7 @@
 # Multi-Object Detection and Persistent ID Tracking
 
 > **Assignment submission** — AI / Computer Vision / Data Science  
-> Video source: *(paste your YouTube link here)*
+> Video source: https://youtube.com/shorts/9LbamV50FTU?si=QTaqBcjy0UWvEnWT
 
 ---
 
@@ -86,7 +86,7 @@ python tracker.py --video path/to/your_video.mp4 --output output/output.mp4
 pip install yt-dlp
 
 # Download the video
-python download_video.py --url "https://www.youtube.com/watch?v=YOUR_VIDEO_ID"
+python download_video.py --url "https://youtube.com/shorts/9LbamV50FTU?si=QTaqBcjy0UWvEnWT"
 
 # Then run the tracker
 python tracker.py --video input_video.mp4 --output output/output.mp4
