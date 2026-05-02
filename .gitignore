@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+env/
+
+# Model weights (auto-downloaded on first run)
+*.pt
+*.pth
+*.weights
+
+# Input/output videos (too large for GitHub)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Output folder contents except keep the folder
+output/*.mp4
+output/*.avi
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
